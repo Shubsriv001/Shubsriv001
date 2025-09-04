@@ -44,21 +44,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shubsriv001/Shubsriv001/output/snake.svg" alt="snake animation" />
-</p>
-
-
----
-
-## 🎵 Spotify Now Playing  
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31mnpv5kzbs4kt7bztp4yflxrhqe&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mnpv5kzbs4kt7bztp4yflxrhqe&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
 ---
 
 <p align="center">
