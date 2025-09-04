@@ -46,8 +46,9 @@
 
 ## 🐍 Contribution Snake  
 <p align="center">
-  <img src="https://github.com/Shubsriv001/Shubsriv001/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Shubsriv001/Shubsriv001/output/snake.svg" alt="snake animation" />
 </p>
+
 
 ---
 
